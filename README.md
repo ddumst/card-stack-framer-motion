@@ -1,38 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NextJs + Framer Motion
 
-## Getting Started
+Este proyecto nace por la necesidad de hacer un carrusel con efecto *card stack* que funcione bien en distintos dispositivos usando [franer motion](https://www.framer.com/motion/) junto con React + Tailwind
 
-First, run the development server:
+### DEMO: 💻 Link al [demo](https://card-stack.by.ddumst.dev/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+https://user-images.githubusercontent.com/1307894/215623330-a3df6860-9878-4374-ac2e-b31ebac5233f.mp4
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Scripts Disponibles
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+#### `yarn dev`
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Ejecuta la app en modo desarrollo.\
+Abre [http://localhost:3000](http://localhost:3000) en tu explorador para ver en acción la app.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+------
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Full-stack Web Engineer
 
-## Learn More
+[![Twitter Follow](https://img.shields.io/twitter/follow/ddumst?style=social)](https://twitter.com/mouredev)
+![GitHub Followers](https://img.shields.io/github/followers/ddumst?style=social)
 
-To learn more about Next.js, take a look at the following resources:
+Hola, soy Diego Becerra, un ingeniero de software con más de 6 años de experiencia en el desarrollo de aplicaciones. En los últimos 4 años, me he enfocado en el desarrollo de aplicaciones Frontend Web. Hace poco empecé a crear contenido para enseñar y compartir el conocimiento que tengo con la comunidad dev en español, el cual puedes encontrar en mis redes sociales como **[@ddumst](https://ddumst.dev)**.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+[![Web](https://img.shields.io/badge/GitHub-dDumstDev-0076D1?style=for-the-badge&logo=github&logoColor=white&labelColor=23272A)](https://github.com/ddumst)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
